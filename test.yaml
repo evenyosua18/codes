@@ -1,0 +1,5 @@
+codes:
+  - code: 300
+    error: success
+    message: success
+    response_code: 200
